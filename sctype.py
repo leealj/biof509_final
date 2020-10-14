@@ -16,3 +16,5 @@ class sctype:
         self.train_data = train.iloc[]
         self.test_labels = test.iloc[]
         self.test_data = test.iloc[]
+        # the indices will also be updated once I know exactly what the data will
+        # look like once it has been properly imported
