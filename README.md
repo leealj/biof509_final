@@ -1,4 +1,4 @@
-# Cell type annotations of scRNA-seq data with SVM and ANN
+# scRNA-seq cell type predictions with SVM and ANN
 Applied Machine Learning Final Project: 
 
 The sctype() class gives you the option of training either an SVM or an ANN to make cell type predictions
